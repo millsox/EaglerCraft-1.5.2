@@ -9,4 +9,6 @@ For a playable result, 6GB of RAM with a CPU of 1.7GHZ (4 threads)
 
 EaglerCraft is not a cloud saved document, meaning transfering progress cross platforms (desktop to laptop). Saving via Drive/OneDrive doesn't cloud save progress as well. As said, EaglerCraft is computer-dependent, not cloud saved.
 
+# Installing EagleCraft
 
+To
