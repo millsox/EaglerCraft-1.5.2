@@ -11,4 +11,7 @@ EaglerCraft is not a cloud saved document, meaning transfering progress cross pl
 
 # Installing EagleCraft
 
-To
+To install EagleCraft, you need to just simply download the respitory as a .ZIP, then extract.
+
+After extracting, you can them open the ***only*** HTML file and you can enjoy the game.
+
