@@ -15,8 +15,6 @@ To install EaglerCraft, you need to just simply download the respitory as a .ZIP
 
 After extracting, you can them open the ***only*** HTML file and you can enjoy the game.
 
-# Installing EaglerCraft (ChromeOS)
+# Installing EaglerCraft (Simplified)
 
-ChromeOS doesn't utilize ZIPS, but thankfully, theres a different method for those students.
-
-Navigate yourself to the respitory and click **Offline_Download_Version.html**. Download the .html file and open it. You can name it to whatever you want,plus you can pin it in your shelf. After that, you can open it and start playing.
+ Navigate yourself to the respitory and click **Offline_Download_Version.html**. Download the .html file and open it. You can name it to whatever you want,plus you can pin it in your shelf. After that, you can open it and start playing.
